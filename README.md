@@ -24,13 +24,8 @@
 - Ethers.js  
 
 ### **Programming Languages**  
-- JavaScript  
+- JavaScript 
 - TypeScript  
-
-### **Blockchain Protocols**  
-- Chainlink  
-- UniswapV3  
-- ERC20 / ERC721 / ERC1155 Standards  
 
 ### **Web Development**  
 - HTML5  
