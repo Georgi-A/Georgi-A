@@ -11,7 +11,7 @@
 ---
 
 ## 🌐 Connect with me:   
-- [Georgi Plamenov | LinkedIn]((https://www.linkedin.com/in/georgi-p/))  
+- [Georgi Plamenov | LinkedIn](https://www.linkedin.com/in/georgi-p/)  
 
 ---
 
