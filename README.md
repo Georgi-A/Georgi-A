@@ -16,4 +16,4 @@
 ---
 
 ## 🛠️ **Languages and Tools**  
-Solidity Hardhat Foundry Ethers.js JavaScript TypeScript HTML5 CSS3 Git GitHub  
+Solidity Hardhat Foundry Ethers.js Web3.js JavaScript TypeScript HTML5 CSS3 Git GitHub  
