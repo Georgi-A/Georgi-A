@@ -6,7 +6,7 @@
 - 💼 Experienced with ERC20, ERC721, and ERC1155 standards, including upgradable contracts, reward mechanisms, and protocol integrations like UniswapV3 and Chainlink.  
 - 🚀 Passionate about enhancing decentralized systems through clean code, security-focused development, and innovative design.  
 - 🛠️ Skilled in Solidity, Hardhat, Foundry, JavaScript, and other tools for blockchain development.    
-- 🥅 **2025 Goals**: Build impactful smart contract solutions, further develop my skills and finding a full-time job.  
+- 🥅 **2025 Goals**: Build impactful smart contract solutions, continue enhancing my skills, and secure a full-time role in blockchain development. 
 
 ---
 
