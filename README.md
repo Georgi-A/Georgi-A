@@ -16,17 +16,4 @@
 ---
 
 ## 🛠️ **Languages and Tools**  
-
-<a href="https://soliditylang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/solidity.png" width="40" /> </a> <a href="https://hardhat.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/hardhat.png" width="40" /> </a> <a href="https://foundry.rs/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gear.png" width="40" /> </a> <a href="https://docs.ethers.io/v5/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ethereum.png" width="40" /> </a>
-
-### **Programming Languages**  
-- JavaScript 
-- TypeScript  
-
-### **Web Development**  
-- HTML5  
-- CSS3  
-
-### **Version Control**  
-- Git  
-- GitHub  
+Solidity Hardhat Foundry Ethers.js JavaScript TypeScript HTML5 CSS3 Git GitHub  
