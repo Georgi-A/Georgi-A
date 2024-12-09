@@ -11,7 +11,7 @@
 ---
 
 ## 🌐 Connect with me:   
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/georgi-p/)  
+- [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/georgi-p/)  
 
 ---
 
